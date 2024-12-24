@@ -7,5 +7,7 @@ Classes and Objects represent workstations.
 
 Simulation of sequential tasks at each stage.  
 
-Looping to process multiple products.  
+Looping to process multiple products.
+
+Dynamic memory allocation.
 
